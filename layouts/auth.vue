@@ -1,7 +1,7 @@
 <template>
-  <div class="min-h-screen bg-black text-white">
+  <div class="min-h-screen">
     <div class="left-part">
-      <IconLogoSmall />
+      <IconsLogoSmall />
     </div>
     <slot />
   </div>
